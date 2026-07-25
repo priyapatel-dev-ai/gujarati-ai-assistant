@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+backend/.venv/
+
+# SQLite
+backend/db.sqlite3
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
